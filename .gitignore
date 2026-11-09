@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.edge-*/
+resume-preview/
+*.log
+*.zip
+.DS_Store
