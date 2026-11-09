@@ -1,0 +1,24 @@
+{
+  "name": "liao-zhenning-portfolio",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@hugeicons/core-free-icons": "^4.4.0",
+    "@hugeicons/react": "^1.1.10",
+    "gsap": "^3.15.1",
+    "motion": "^14.10.1",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.2.1",
+    "playwright-core": "^1.64.1",
+    "vite": "^8.3.5"
+  }
+}
